@@ -1,0 +1,14 @@
+{
+  "name": "electron-quick-start",
+  "version": "0.1.0",
+  "description": "Simple electron app with beginnig settings and Hello world page",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Vladislav Rudenko",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^3.0.7"
+  }
+}
